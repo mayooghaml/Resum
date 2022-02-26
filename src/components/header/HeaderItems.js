@@ -6,7 +6,7 @@ function HeaderItems(props) {
         <div id="menu">
             < ul >
                 <li><Link to="/">Home</Link></li>
-                <li><Link to="#">About Us</Link></li>
+            
                 <li><Link to="#">Sign Up</Link></li>
                 <li><Link to="#">Log In</Link></li>
             </ul>
